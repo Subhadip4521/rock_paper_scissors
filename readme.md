@@ -1,3 +1,3 @@
-# CASINO
+# Rock Paper Scissors
 #### Language
 > C
